@@ -46,8 +46,6 @@ status-website:
       href: https://upptime.js.org/docs/
     - title: Repo
       href: https://github.com/$OWNER/$REPO
-      
-i18n:
-  footer: [http://bittybyte.com.au](http://bittybyte.com.au)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
