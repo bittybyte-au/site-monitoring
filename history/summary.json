@@ -40,19 +40,19 @@
     "url": "https://bittybyte.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/bittybyte.com.au.ico",
     "slug": "bitty-byte",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 5593,
-    "timeDay": 5593,
-    "timeWeek": 5593,
-    "timeMonth": 5593,
-    "timeYear": 5593,
+    "status": "up",
+    "uptime": "83.67%",
+    "uptimeDay": "83.67%",
+    "uptimeWeek": "83.67%",
+    "uptimeMonth": "83.67%",
+    "uptimeYear": "83.67%",
+    "time": 6064,
+    "timeDay": 6064,
+    "timeWeek": 6064,
+    "timeMonth": 6064,
+    "timeYear": 6064,
     "dailyMinutesDown": {
-      "2025-10-10": 0
+      "2025-10-10": 24
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-10": 120
+      "2025-10-10": 144
     }
   }
 ]
