@@ -27,6 +27,8 @@ sites:
     url: https://mossandtide.com.au   
   - name: Mind & Heart Grief Counselling
     url: https://mindandheartgriefcounselling.com.au
+  - name: Test Downtime Notifications
+    url: https://example.invalid
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
