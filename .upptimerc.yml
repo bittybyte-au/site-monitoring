@@ -27,7 +27,7 @@ sites:
     url: https://mossandtide.com.au   
   - name: Mind & Heart Grief Counselling
     url: https://mindandheartgriefcounselling.com.au
-  - name: Test Downtime Notifications
+  - name: Test Downtime Notifications 2
     url: https://example.invalid
 
 status-website:
