@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yourchiefaiofficer.ai.ico",
     "slug": "your-chief-ai-officer",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "98.31%",
-    "uptimeYear": "93.48%",
+    "uptimeYear": "93.49%",
     "time": 982,
     "timeDay": 275,
     "timeWeek": 199,
@@ -86,11 +86,11 @@
     "url": "https://evince.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/evince.com.au.ico",
     "slug": "evince-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "96.54%",
-    "uptimeDay": "11.76%",
-    "uptimeWeek": "69.98%",
-    "uptimeMonth": "87.17%",
+    "uptimeDay": "21.03%",
+    "uptimeWeek": "69.95%",
+    "uptimeMonth": "87.16%",
     "uptimeYear": "96.54%",
     "time": 1461,
     "timeDay": 1062,
@@ -98,6 +98,7 @@
     "timeMonth": 1492,
     "timeYear": 1461,
     "dailyMinutesDown": {
+      "2026-03-13": 4,
       "2026-03-12": 1398,
       "2026-03-11": 1318,
       "2026-03-10": 82,
@@ -146,8 +147,7 @@
       "2026-01-14": 308,
       "2026-01-12": 50,
       "2026-01-10": 37,
-      "2026-01-09": 55,
-      "2026-01-08": 18
+      "2026-01-09": 55
     }
   },
   {
@@ -155,18 +155,19 @@
     "url": "https://bittybyte.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/bittybyte.com.au.ico",
     "slug": "bitty-byte",
-    "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "11.75%",
-    "uptimeWeek": "70.02%",
+    "status": "down",
+    "uptime": "96.56%",
+    "uptimeDay": "21.05%",
+    "uptimeWeek": "69.99%",
     "uptimeMonth": "87.34%",
-    "uptimeYear": "96.55%",
+    "uptimeYear": "96.56%",
     "time": 7969,
     "timeDay": 7626,
     "timeWeek": 8234,
     "timeMonth": 8245,
     "timeYear": 7969,
     "dailyMinutesDown": {
+      "2026-03-13": 3,
       "2026-03-12": 1398,
       "2026-03-11": 1317,
       "2026-03-10": 82,
@@ -215,7 +216,7 @@
       "2026-01-12": 49,
       "2026-01-10": 36,
       "2026-01-09": 54,
-      "2026-01-08": 41
+      "2026-01-08": 17
     }
   },
   {
@@ -304,18 +305,19 @@
     "url": "https://bstjoinery.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/bstjoinery.com.au.ico",
     "slug": "bst-joinery",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "11.74%",
-    "uptimeWeek": "70.06%",
+    "status": "down",
+    "uptime": "96.59%",
+    "uptimeDay": "21.09%",
+    "uptimeWeek": "70.04%",
     "uptimeMonth": "87.39%",
-    "uptimeYear": "96.58%",
+    "uptimeYear": "96.59%",
     "time": 3785,
     "timeDay": 2115,
     "timeWeek": 3590,
     "timeMonth": 3559,
     "timeYear": 3785,
     "dailyMinutesDown": {
+      "2026-03-13": 3,
       "2026-03-12": 1398,
       "2026-03-11": 1317,
       "2026-03-10": 80,
@@ -364,8 +366,7 @@
       "2026-01-12": 48,
       "2026-01-10": 35,
       "2026-01-09": 53,
-      "2026-01-08": 41,
-      "2026-01-07": 21
+      "2026-01-08": 41
     }
   },
   {
@@ -401,18 +402,19 @@
     "url": "https://guidedgrowth.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/guidedgrowth.com.au.ico",
     "slug": "guided-growth",
-    "status": "up",
-    "uptime": "96.42%",
-    "uptimeDay": "11.73%",
-    "uptimeWeek": "70.08%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "96.42%",
+    "status": "down",
+    "uptime": "96.43%",
+    "uptimeDay": "21.10%",
+    "uptimeWeek": "70.05%",
+    "uptimeMonth": "86.52%",
+    "uptimeYear": "96.43%",
     "time": 6903,
     "timeDay": 7804,
     "timeWeek": 7196,
     "timeMonth": 7115,
     "timeYear": 6903,
     "dailyMinutesDown": {
+      "2026-03-13": 2,
       "2026-03-12": 1398,
       "2026-03-11": 1316,
       "2026-03-10": 80,
@@ -458,7 +460,7 @@
       "2026-01-17": 121,
       "2026-01-16": 47,
       "2026-01-14": 307,
-      "2026-01-12": 48
+      "2026-01-12": 32
     }
   },
   {
@@ -549,18 +551,19 @@
     "url": "https://capitallift.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/capitallift.com.au.ico",
     "slug": "capital-lift-finance",
-    "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "11.72%",
-    "uptimeWeek": "70.12%",
+    "status": "down",
+    "uptime": "96.62%",
+    "uptimeDay": "21.13%",
+    "uptimeWeek": "70.10%",
     "uptimeMonth": "87.46%",
-    "uptimeYear": "96.61%",
+    "uptimeYear": "96.62%",
     "time": 1565,
     "timeDay": 1452,
     "timeWeek": 1505,
     "timeMonth": 1490,
     "timeYear": 1565,
     "dailyMinutesDown": {
+      "2026-03-13": 2,
       "2026-03-12": 1398,
       "2026-03-11": 1316,
       "2026-03-10": 80,
@@ -610,7 +613,7 @@
       "2026-01-12": 48,
       "2026-01-10": 34,
       "2026-01-09": 51,
-      "2026-01-08": 39
+      "2026-01-08": 16
     }
   },
   {
@@ -618,18 +621,19 @@
     "url": "https://carmenrossitto.com",
     "icon": "https://icons.duckduckgo.com/ip3/carmenrossitto.com.ico",
     "slug": "carmen-rossitto",
-    "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "11.72%",
-    "uptimeWeek": "70.17%",
+    "status": "down",
+    "uptime": "96.64%",
+    "uptimeDay": "21.16%",
+    "uptimeWeek": "70.16%",
     "uptimeMonth": "87.51%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.64%",
     "time": 1213,
     "timeDay": 1322,
     "timeWeek": 1289,
     "timeMonth": 1281,
     "timeYear": 1213,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 1398,
       "2026-03-11": 1315,
       "2026-03-10": 78,
@@ -679,7 +683,7 @@
       "2026-01-12": 46,
       "2026-01-10": 33,
       "2026-01-09": 51,
-      "2026-01-08": 39
+      "2026-01-08": 16
     }
   },
   {
@@ -738,18 +742,19 @@
     "url": "https://mindandheartgriefcounselling.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/mindandheartgriefcounselling.com.au.ico",
     "slug": "mind-and-heart-grief-counselling",
-    "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "11.72%",
+    "status": "down",
+    "uptime": "96.64%",
+    "uptimeDay": "21.19%",
     "uptimeWeek": "70.21%",
     "uptimeMonth": "87.56%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.64%",
     "time": 1467,
     "timeDay": 993,
     "timeWeek": 1368,
     "timeMonth": 1544,
     "timeYear": 1467,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 1399,
       "2026-03-11": 1314,
       "2026-03-10": 78,
@@ -798,8 +803,7 @@
       "2026-01-14": 305,
       "2026-01-12": 46,
       "2026-01-10": 32,
-      "2026-01-09": 50,
-      "2026-01-08": 15
+      "2026-01-09": 50
     }
   }
 ]
