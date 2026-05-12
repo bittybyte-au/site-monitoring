@@ -2,10 +2,10 @@
 owner: bittybyte-au # Your GitHub organization or username, where this repository lives
 repo: site-monitoring # The name of this repository
 
-# Stops the “back up” spam where the DOWN issue was deleted (<15 min)
+# Stops the back up spam where the DOWN issue was deleted (<15 min)
 skipDeleteIssues: true
 
-# Add a small pause between checks so you don't “burst” 12 sites at once
+# Add a small pause between checks so you don't burst 12 sites at once
 delay: 2000 # 2 seconds
 
 # Reduce flapping by checking less often (default is */5)
@@ -15,39 +15,30 @@ workflowSchedule:
 sites:
   - name: Your Chief AI Officer
     url: https://yourchiefaiofficer.ai
-    type: globalping
-    location: australia    
   - name: evince Consulting
     url: https://evince.com.au
   - name: BittyByte
     url: https://bittybyte.com.au
   - name: Amit Singh
     url: https://amits.com.au
-    type: globalping
-    location: australia  
   - name: BST Joinery
     url: https://bstjoinery.com.au
   - name: NextEra Bookkeeping
-    url: https://nexterabookkeeping.com.au 
+    url: https://nexterabookkeeping.com.au
   - name: Guided Growth
-    url: https://guidedgrowth.com.au 
+    url: https://guidedgrowth.com.au
   - name: Talent Journey
-    url: https://talentjourney.com.au 
-    type: globalping
-    location: australia    
+    url: https://talentjourney.com.au
   - name: Capital Lift Finance
-    url: https://capitallift.com.au     
+    url: https://capitallift.com.au
   - name: Carmen Rossitto
     url: https://carmenrossitto.com
   - name: Moss & Tide Homes
-    url: https://mossandtide.com.au   
+    url: https://mossandtide.com.au
   - name: Mind & Heart Grief Counselling
     url: https://mindandheartgriefcounselling.com.au
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /site-monitoring
   logoUrl: https://bittybyte-au.github.io/site-monitoring/bb-icon.png
   name: Site Monitoring
