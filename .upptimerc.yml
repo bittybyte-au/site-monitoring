@@ -13,10 +13,10 @@ workflowSchedule:
   uptime: "*/10 * * * *"
 
 sites:
-  - name: Your Chief AI Officer
+  - name: Your Chief CHIEF AI Officer
     url: https://yourchiefaiofficer.ai
   - name: evince Consulting
-    url: https://evince.com.au
+    url: https://evince.ai
   - name: BittyByte
     url: https://bittybyte.com.au
   - name: Amit Singh
