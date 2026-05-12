@@ -1,19 +1,15 @@
 # Change these first
-owner: bittybyte-au # Your GitHub organization or username, where this repository lives
-repo: site-monitoring # The name of this repository
+owner: bittybyte-au
+repo: site-monitoring
 
-# Stops the back up spam where the DOWN issue was deleted (<15 min)
 skipDeleteIssues: true
+delay: 2000
 
-# Add a small pause between checks so you don't burst 12 sites at once
-delay: 2000 # 2 seconds
-
-# Reduce flapping by checking less often (default is */5)
 workflowSchedule:
   uptime: "*/10 * * * *"
 
 sites:
-  - name: Your Chief CHIEF AI Officer
+  - name: Your Chief AI Officer
     url: https://yourchiefaiofficer.ai
   - name: evince Consulting
     url: https://evince.ai
