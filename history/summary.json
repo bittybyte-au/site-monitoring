@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yourchiefaiofficer.ai.ico",
     "slug": "your-chief-ai-officer",
     "status": "up",
-    "uptime": "86.66%",
+    "uptime": "86.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.66%",
+    "uptimeYear": "86.67%",
     "time": 742,
     "timeDay": 223,
     "timeWeek": 177,
@@ -418,11 +418,11 @@
     "url": "https://guidedgrowth.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/guidedgrowth.com.au.ico",
     "slug": "guided-growth",
-    "status": "up",
+    "status": "down",
     "uptime": "97.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.71%",
     "time": 6639,
     "timeDay": 3908,
@@ -430,7 +430,7 @@
     "timeMonth": 4612,
     "timeYear": 6639,
     "dailyMinutesDown": {
-      "2026-01-25": 57,
+      "2026-01-25": 25,
       "2026-01-26": 54,
       "2026-01-28": 53,
       "2026-01-29": 41,
@@ -481,7 +481,8 @@
       "2026-06-14": 329,
       "2026-06-21": 77,
       "2026-07-10": 99,
-      "2026-07-19": 55
+      "2026-07-19": 55,
+      "2026-07-28": 15
     }
   },
   {
@@ -489,11 +490,11 @@
     "url": "https://talentjourney.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/talentjourney.com.au.ico",
     "slug": "talent-journey",
-    "status": "up",
+    "status": "down",
     "uptime": "96.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "96.35%",
     "time": 928,
     "timeDay": 1582,
@@ -501,7 +502,6 @@
     "timeMonth": 1402,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-11-15": 18,
       "2025-11-16": 20,
       "2025-11-17": 37,
       "2025-11-18": 43,
@@ -570,7 +570,8 @@
       "2026-06-17": 328,
       "2026-06-20": 44,
       "2026-07-10": 94,
-      "2026-07-19": 50
+      "2026-07-19": 50,
+      "2026-07-28": 10
     }
   },
   {
@@ -578,19 +579,18 @@
     "url": "https://capitallift.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/capitallift.com.au.ico",
     "slug": "capital-lift-finance",
-    "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "97.93%",
+    "status": "down",
+    "uptime": "97.94%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "97.94%",
     "time": 2124,
     "timeDay": 5790,
     "timeWeek": 5639,
     "timeMonth": 4755,
     "timeYear": 2124,
     "dailyMinutesDown": {
-      "2026-01-19": 28,
       "2026-01-20": 98,
       "2026-01-21": 13,
       "2026-01-23": 8,
@@ -642,7 +642,8 @@
       "2026-05-27": 202,
       "2026-06-01": 343,
       "2026-07-10": 90,
-      "2026-07-19": 45
+      "2026-07-19": 45,
+      "2026-07-28": 6
     }
   },
   {
@@ -650,19 +651,18 @@
     "url": "https://carmenrossitto.com",
     "icon": "https://icons.duckduckgo.com/ip3/carmenrossitto.com.ico",
     "slug": "carmen-rossitto",
-    "status": "up",
-    "uptime": "97.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.86%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "97.86%",
     "time": 1281,
     "timeDay": 1470,
     "timeWeek": 1345,
     "timeMonth": 1315,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2026-01-20": 16,
       "2026-01-21": 12,
       "2026-01-23": 8,
       "2026-01-24": 13,
@@ -716,7 +716,8 @@
       "2026-06-09": 411,
       "2026-06-21": 72,
       "2026-07-10": 85,
-      "2026-07-19": 41
+      "2026-07-19": 41,
+      "2026-07-28": 1
     }
   },
   {
