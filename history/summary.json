@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yourchiefaiofficer.ai.ico",
     "slug": "your-chief-ai-officer",
     "status": "up",
-    "uptime": "89.30%",
+    "uptime": "89.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.32%",
     "time": 713,
     "timeDay": 108,
     "timeWeek": 173,
@@ -384,11 +384,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexterabookkeeping.com.au.ico",
     "slug": "next-era-bookkeeping",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 2008,
     "timeDay": 1701,
     "timeWeek": 1187,
@@ -419,11 +419,11 @@
     "url": "https://guidedgrowth.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/guidedgrowth.com.au.ico",
     "slug": "guided-growth",
-    "status": "up",
+    "status": "down",
     "uptime": "97.78%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "97.78%",
     "time": 6560,
     "timeDay": 5255,
@@ -431,7 +431,7 @@
     "timeMonth": 5072,
     "timeYear": 6560,
     "dailyMinutesDown": {
-      "2026-02-01": 57,
+      "2026-02-01": 29,
       "2026-02-02": 175,
       "2026-02-04": 130,
       "2026-02-03": 12,
@@ -486,7 +486,8 @@
       "2026-08-10": 117,
       "2026-08-13": 28,
       "2026-08-12": 27,
-      "2026-08-15": 38
+      "2026-08-15": 38,
+      "2026-08-16": 15
     }
   },
   {
@@ -494,11 +495,11 @@
     "url": "https://talentjourney.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/talentjourney.com.au.ico",
     "slug": "talent-journey",
-    "status": "up",
+    "status": "down",
     "uptime": "96.49%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "96.49%",
     "time": 961,
     "timeDay": 1478,
@@ -506,7 +507,6 @@
     "timeMonth": 1412,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2025-11-29": 18,
       "2025-11-30": 144,
       "2025-12-01": 172,
       "2025-12-02": 107,
@@ -574,7 +574,8 @@
       "2026-08-10": 107,
       "2026-08-13": 23,
       "2026-08-12": 22,
-      "2026-08-15": 33
+      "2026-08-15": 33,
+      "2026-08-16": 10
     }
   },
   {
@@ -582,11 +583,11 @@
     "url": "https://capitallift.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/capitallift.com.au.ico",
     "slug": "capital-lift-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "98.32%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "97.97%",
     "time": 2269,
     "timeDay": 4741,
@@ -594,7 +595,7 @@
     "timeMonth": 4776,
     "timeYear": 2269,
     "dailyMinutesDown": {
-      "2026-01-28": 52,
+      "2026-01-28": 16,
       "2026-01-29": 41,
       "2026-01-31": 82,
       "2026-02-01": 254,
@@ -648,7 +649,8 @@
       "2026-08-10": 99,
       "2026-08-13": 18,
       "2026-08-12": 17,
-      "2026-08-15": 28
+      "2026-08-15": 28,
+      "2026-08-16": 5
     }
   },
   {
@@ -656,19 +658,19 @@
     "url": "https://carmenrossitto.com",
     "icon": "https://icons.duckduckgo.com/ip3/carmenrossitto.com.ico",
     "slug": "carmen-rossitto",
-    "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "97.91%",
+    "status": "down",
+    "uptime": "97.91%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "97.90%",
     "uptimeMonth": "98.46%",
-    "uptimeYear": "97.90%",
+    "uptimeYear": "97.91%",
     "time": 1280,
     "timeDay": 1267,
     "timeWeek": 1264,
     "timeMonth": 1286,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2026-01-31": 80,
+      "2026-01-31": 46,
       "2026-02-01": 253,
       "2026-02-02": 175,
       "2026-02-04": 98,
@@ -723,7 +725,8 @@
       "2026-08-10": 89,
       "2026-08-13": 13,
       "2026-08-12": 12,
-      "2026-08-15": 23
+      "2026-08-15": 23,
+      "2026-08-16": 1
     }
   },
   {
