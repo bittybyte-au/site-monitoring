@@ -419,17 +419,17 @@
     "url": "https://guidedgrowth.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/guidedgrowth.com.au.ico",
     "slug": "guided-growth",
-    "status": "down",
+    "status": "up",
     "uptime": "97.81%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "97.81%",
-    "time": 6546,
-    "timeDay": 5292,
-    "timeWeek": 5372,
-    "timeMonth": 5088,
-    "timeYear": 6546,
+    "time": 6544,
+    "timeDay": 5450,
+    "timeWeek": 5400,
+    "timeMonth": 5103,
+    "timeYear": 6544,
     "dailyMinutesDown": {
       "2026-02-04": 128,
       "2026-02-05": 51,
@@ -485,7 +485,7 @@
       "2026-08-12": 27,
       "2026-08-15": 38,
       "2026-08-16": 74,
-      "2026-08-17": 57
+      "2026-08-17": 72
     }
   },
   {
@@ -493,16 +493,16 @@
     "url": "https://talentjourney.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/talentjourney.com.au.ico",
     "slug": "talent-journey",
-    "status": "down",
+    "status": "up",
     "uptime": "96.51%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "96.51%",
     "time": 966,
-    "timeDay": 1265,
-    "timeWeek": 1379,
-    "timeMonth": 1406,
+    "timeDay": 1264,
+    "timeWeek": 1371,
+    "timeMonth": 1403,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2025-11-30": 19,
@@ -574,7 +574,7 @@
       "2026-08-12": 22,
       "2026-08-15": 33,
       "2026-08-16": 59,
-      "2026-08-17": 47
+      "2026-08-17": 62
     }
   },
   {
@@ -582,17 +582,17 @@
     "url": "https://capitallift.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/capitallift.com.au.ico",
     "slug": "capital-lift-finance",
-    "status": "down",
+    "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "97.99%",
-    "time": 2292,
-    "timeDay": 3940,
-    "timeWeek": 4417,
-    "timeMonth": 4741,
-    "timeYear": 2292,
+    "time": 2299,
+    "timeDay": 4599,
+    "timeWeek": 4525,
+    "timeMonth": 4766,
+    "timeYear": 2299,
     "dailyMinutesDown": {
       "2026-01-31": 28,
       "2026-02-01": 254,
@@ -648,7 +648,7 @@
       "2026-08-12": 17,
       "2026-08-15": 28,
       "2026-08-16": 44,
-      "2026-08-17": 38
+      "2026-08-17": 53
     }
   },
   {
@@ -656,15 +656,15 @@
     "url": "https://carmenrossitto.com",
     "icon": "https://icons.duckduckgo.com/ip3/carmenrossitto.com.ico",
     "slug": "carmen-rossitto",
-    "status": "down",
+    "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "97.96%",
     "time": 1281,
-    "timeDay": 1316,
-    "timeWeek": 1260,
+    "timeDay": 1305,
+    "timeWeek": 1262,
     "timeMonth": 1288,
     "timeYear": 1281,
     "dailyMinutesDown": {
@@ -724,7 +724,7 @@
       "2026-08-12": 12,
       "2026-08-15": 23,
       "2026-08-16": 31,
-      "2026-08-17": 29
+      "2026-08-17": 44
     }
   },
   {
