@@ -9,6 +9,8 @@ workflowSchedule:
   uptime: "*/10 * * * *"
 
 sites:
+  - name: 5S Advisory
+    url: https://5sadvisory.com.au
   - name: Your Chief AI Officer
     url: https://yourchiefaiofficer.ai
   - name: evince Consulting
